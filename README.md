@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susmita Haldar</h1>
+
 - 🌱 I’m currently studying **Computer Science with specialisation in AI(CSAI) from Nsut Delhi.**
 
 - 👧 I'm interested in **Machine Learning, DSA,AI.**
