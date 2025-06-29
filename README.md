@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Susmita Haldar</h1>
+<h1 align="center">Hi 👋, Myself Susmita Haldar</h1>
 
 - 🌱 I’m currently studying **Computer Science with specialisation in AI(CSAI) from Nsut Delhi.**
 
